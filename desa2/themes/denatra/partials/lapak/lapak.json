@@ -1,0 +1,50 @@
+{
+  "aktif": false,
+  "default_hp": "628115222660",
+  "mode": "hp",
+  "multi": true,
+  "lapak": [
+    {
+      "id": "1",
+      "produk": "Keripik Lele",
+      "judul": "UP2K Desa Natai Raya",
+      "deskripsi": "<br>Ikan lele dapat diolah menjadi aneka jenis makanan seperti produk keripik ikan lele yang Crispy, Enak, Mantap.",
+      "harga": 20000,
+      "diskon": 15000,
+      "gambar": "lele.jpg",
+      "hp": "628115212660",
+      "lat": "-2.665093",
+      "lng": "111.709899",
+      "alamat": "Desa Natai Raya RT. 002",
+      "link": ""
+    },
+    {
+      "id": "2",
+      "produk": "Lumpring (Lumpia Kering)",
+      "judul": "Si Camilan Cruncy",
+      "deskripsi": "<br>LUMPRING atau Lumpia Kering ini diolah dari kulit lumpia yang kemudian dibubuhi dengan aneka varian rasa.",
+      "harga": 10000,
+      "diskon": 6000,
+      "gambar": "lumpring.jpg",
+      "hp": "628115222660",
+      "lat": "-2.668933",
+      "lng": "111.709864",
+      "alamat": "Desa Natai Raya RT. 003",
+      "link": ""
+    },
+    {
+      "id": "3",
+      "produk": "Akar Pinang",
+      "judul": "Kuliner Semut",
+      "deskripsi": "<br>Makanan Ringan Serba Imut Murah Meriah yang halal, gurih, renyah, dan enak. Cocok buat cemilan bersama keluarga.",
+      "harga": 6000,
+      "diskon": 5000,
+      "gambar": "akar_pinang.jpg",
+      "hp": "628115212660",
+      "lat": "-2.733069",
+      "lng": "111.648563",
+      "alamat": "Pondok Pasir Panjang Permai Blok C-16",
+      "link": ""
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "aktif": true,
+  "default_hp": "628115222660",
+  "mode": "hp",
+  "multi": true,
+  "lapak": [
+    {
+      "id": "1",
+      "produk": "Nasi Goreng",
+      "judul": "Mamal's Cafe",
+      "deskripsi": "<br>Nasi Goreng Bercita rasa khas orang minahasa yang lezat, Enak, Mantap.",
+      "harga": 16000,
+      "diskon": 15000,
+      "gambar": "nasi_goreng ba.png",
+      "hp": "6285231219944",
+      "lat": "1.4893501649838914",
+      "lng": "124.97542398438293",
+      "alamat": "Lorong SMP Katolik",
+      "link": ""
+    },
+    {
+      "id": "2",
+      "produk": "Cekalang Bakar",
+      "judul": "Cekalang Bakar Om Kane",
+      "deskripsi": "<br>Ikan Cekalang bakar beserta sambel yang sangat memanjakan lidah.",
+      "harga": "30000-50000",
+      "diskon": "25000-40000",
+      "gambar": "cekalang_bakar.png",
+      "hp": "628115222660",
+      "lat": "1.4869020110240299",
+      "lng": "124.97448841600816",
+      "alamat": "Dekat Lorong SMA Dimuka Pala Frans",
+      "link": ""
+    },
+    {
+      "id": "3",
+      "produk": "Sate Babi",
+      "judul": "Makanan Khas Minahasa",
+      "deskripsi": "<br>Sate babi lezat, gurih, pantas untuk dicoba.",
+      "harga": 3000,
+      "diskon": 2500,
+      "gambar": "sate_bakar.png",
+      "hp": "628115212660",
+      "lat": "1.4868792677597251",
+      "lng": "124.9743498422025",
+      "alamat": "Dekat Lorong SMA Dimuka Pala Frans",
+      "link": ""
+    },
+    
+        {
+      "id": "4",
+      "produk": "Nasi Kuning (Makanan)",
+      "judul": "Nasi Kuning",
+      "deskripsi": "<br>Nasi Kuning Lezat From laikit.",
+      "harga": 10000,
+      "diskon": 7000,
+      "gambar": "nasi_kuning.png",
+      "hp": "628115212660",
+      "lat": "1.4875750047960608",
+      "lng": "124.97457528318192",
+      "alamat": "Kediaman Hukum Tua Desa Laikit Ferry Koloay",
+      "link": ""
+    }
+  ]
+}
